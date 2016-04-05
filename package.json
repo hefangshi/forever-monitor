@@ -1,7 +1,7 @@
 {
-  "name": "forever-monitor",
+  "name": "forever-monitor-cluster",
   "description": "Core forever process monitor",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "contributors": [
     { "name": "Charlie Robbins", "email": "charlie@nodejitsu.com" },
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/nodejitsu/forever-monitor.git"
+    "url": "http://github.com/hefangshi/forever-monitor.git"
   },
   "keywords": [
     "fault tolerant",
